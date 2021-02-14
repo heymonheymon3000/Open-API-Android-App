@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b850dd8-47e1-48d0-a449-a71dc7e4bbba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/repository/NetworkBoundResource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/repository/NetworkBoundResource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/repository/auth/AuthRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/repository/auth/AuthRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/session/SessionManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/session/SessionManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/auth/AuthViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/auth/AuthViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/account/AccountFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/account/AccountFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/account/AccountViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/account/AccountViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/account/ChangePasswordFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/account/ChangePasswordFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/blog/UpdateBlogFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/blog/UpdateBlogFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/blog/ViewBlogFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/blog/ViewBlogFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/blog/state/BlogViewState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/blog/state/BlogViewState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/blog/viewmodel/BlogViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/blog/viewmodel/BlogViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/blog/viewmodel/Setters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/blog/viewmodel/Setters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/create_blog/CreateBlogFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/create_blog/CreateBlogFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/create_blog/CreateBlogViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codingwithmitch/openapi/ui/main/create_blog/CreateBlogViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@RFCNC07SAFP]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="channels-and-flows" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oQYOVOT1B7ByKSrINCtMYuu0uF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="SerialNumber@RFCNC07SAFP" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-13T13:47:15.908347Z" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Open-API-Android-App.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Open-API-Android-App:app [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Open-API-Android-App:app [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b850dd8-47e1-48d0-a449-a71dc7e4bbba" name="Default Changelist" comment="" />
+      <created>1613220249735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613220249735</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2518" height="424" key="GridCell.Tab.0.bottom" timestamp="1613222089036">
+      <screen x="-554" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.bottom/0.0.1440.900/-554.-1440.2560.1440@-554.-1440.2560.1440" timestamp="1613222089036" />
+    <state width="2518" height="424" key="GridCell.Tab.0.center" timestamp="1613222089035">
+      <screen x="-554" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.center/0.0.1440.900/-554.-1440.2560.1440@-554.-1440.2560.1440" timestamp="1613222089035" />
+    <state width="2518" height="424" key="GridCell.Tab.0.left" timestamp="1613222089033">
+      <screen x="-554" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.left/0.0.1440.900/-554.-1440.2560.1440@-554.-1440.2560.1440" timestamp="1613222089032" />
+    <state width="2518" height="424" key="GridCell.Tab.0.right" timestamp="1613222089035">
+      <screen x="-554" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.right/0.0.1440.900/-554.-1440.2560.1440@-554.-1440.2560.1440" timestamp="1613222089035" />
+    <state x="422" y="-1003" key="git4idea.branch.GitSmartOperationDialog" timestamp="1613307470388">
+      <screen x="-554" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="422" y="-1003" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900/-554.-1440.2560.1440@-554.-1440.2560.1440" timestamp="1613307470388" />
+  </component>
+</project>

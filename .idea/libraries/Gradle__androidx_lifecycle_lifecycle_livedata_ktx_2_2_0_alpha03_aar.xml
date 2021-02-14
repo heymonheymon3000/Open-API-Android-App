@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha03@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c834d17733c4a88b0ebb23195d275c4/lifecycle-livedata-ktx-2.2.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/77b6980ff2d072e99692a0da45de93f5/transformed/jetified-lifecycle-livedata-ktx-2.2.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/87bc07646710d518d90503e97df86801/transformed/jetified-lifecycle-livedata-ktx-2.2.0-alpha03/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/adc0a4991e71b20743bb711cd16ed58a/transformed/lifecycle-livedata-ktx-2.2.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/adc0a4991e71b20743bb711cd16ed58a/transformed/lifecycle-livedata-ktx-2.2.0-alpha03/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/adc0a4991e71b20743bb711cd16ed58a/transformed/lifecycle-livedata-ktx-2.2.0-alpha03/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-ktx/2.2.0-alpha03/491c51e74b7ca2be039f7dede475b36f7bea35ad/lifecycle-livedata-ktx-2.2.0-alpha03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
